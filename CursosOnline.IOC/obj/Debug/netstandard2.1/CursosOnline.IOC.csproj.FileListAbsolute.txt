@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.IOC.deps.json
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.IOC.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.IOC.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Application.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Domain.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Infraestructure.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Application.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Infraestructure.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\bin\Debug\netstandard2.1\CursosOnline.Domain.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.IOC\obj\Debug\netstandard2.1\CursosOnline.IOC.csproj.CopyComplete

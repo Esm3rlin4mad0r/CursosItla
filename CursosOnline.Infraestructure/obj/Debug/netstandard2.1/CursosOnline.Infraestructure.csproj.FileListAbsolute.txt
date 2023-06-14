@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\bin\Debug\netstandard2.1\CursosOnline.Infraestructure.deps.json
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\bin\Debug\netstandard2.1\CursosOnline.Infraestructure.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\bin\Debug\netstandard2.1\CursosOnline.Infraestructure.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\bin\Debug\netstandard2.1\CursosOnline.Domain.dll
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\bin\Debug\netstandard2.1\CursosOnline.Domain.pdb
+C:\Users\LENOVO\source\repos\CursosOnline\CursosOnline.Infraestructure\obj\Debug\netstandard2.1\CursosOnline.Infraestructure.csproj.CopyComplete
